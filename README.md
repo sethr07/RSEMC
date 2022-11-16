@@ -13,6 +13,7 @@ I am gonna start with a simple interface using Python and using SMTP to connect 
     5. Body to write text
     6. Attachment button
     7. Switch between accounts
+    8. Subject Placeholder
 
 2. Back End with the following components:
     1. Connects to account
